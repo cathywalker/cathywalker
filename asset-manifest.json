@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cathywalker/static/css/main.295425ff.chunk.css",
+    "main.js": "/cathywalker/static/js/main.f01111dd.chunk.js",
+    "main.js.map": "/cathywalker/static/js/main.f01111dd.chunk.js.map",
+    "runtime-main.js": "/cathywalker/static/js/runtime-main.7fc967e4.js",
+    "runtime-main.js.map": "/cathywalker/static/js/runtime-main.7fc967e4.js.map",
+    "static/js/2.d984a30d.chunk.js": "/cathywalker/static/js/2.d984a30d.chunk.js",
+    "static/js/2.d984a30d.chunk.js.map": "/cathywalker/static/js/2.d984a30d.chunk.js.map",
+    "index.html": "/cathywalker/index.html",
+    "precache-manifest.3575c815cc5c88ebd75fb7f9d036f5e2.js": "/cathywalker/precache-manifest.3575c815cc5c88ebd75fb7f9d036f5e2.js",
+    "service-worker.js": "/cathywalker/service-worker.js",
+    "static/css/main.295425ff.chunk.css.map": "/cathywalker/static/css/main.295425ff.chunk.css.map",
+    "static/js/2.d984a30d.chunk.js.LICENSE.txt": "/cathywalker/static/js/2.d984a30d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc967e4.js",
+    "static/js/2.d984a30d.chunk.js",
+    "static/css/main.295425ff.chunk.css",
+    "static/js/main.f01111dd.chunk.js"
+  ]
+}
