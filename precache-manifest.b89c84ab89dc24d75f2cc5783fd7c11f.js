@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb84527eebba54a997cb9f8abc609515",
+    "revision": "ada472742ae2a96daa9bf8fd4d86e47b",
     "url": "/cathywalker/index.html"
   },
   {
-    "revision": "3a068f43fb16688ea220",
-    "url": "/cathywalker/static/css/main.901495a9.chunk.css"
+    "revision": "a992624952479f278ced",
+    "url": "/cathywalker/static/css/main.9b5d4d04.chunk.css"
   },
   {
     "revision": "bfc9c0b183adb684b23b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cathywalker/static/js/2.223deb8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a068f43fb16688ea220",
+    "revision": "a992624952479f278ced",
     "url": "/cathywalker/static/js/main.ada01fed.chunk.js"
   },
   {
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5acb5c58e960210464dad99399f58704",
     "url": "/cathywalker/static/media/spark-ar-mask.5acb5c58.jpg"
+  },
+  {
+    "revision": "b50cb4e023d67289eab2aeaf8e2cc3d6",
+    "url": "/cathywalker/static/media/spark-ar-mask2.b50cb4e0.jpg"
   },
   {
     "revision": "bf68b7c6b9f78101e2bf742e41aafcb0",
