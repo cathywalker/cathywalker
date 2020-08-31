@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78e720628e3816c851853854e7da1fb7",
+    "revision": "d8863f9559853ba1c51d49de863efbbe",
     "url": "/cathywalker/index.html"
   },
   {
-    "revision": "23b0ee6655392657fe8e",
-    "url": "/cathywalker/static/css/main.57c303dd.chunk.css"
+    "revision": "271f180c37290d0be148",
+    "url": "/cathywalker/static/css/main.e12a792a.chunk.css"
   },
   {
     "revision": "bfc9c0b183adb684b23b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cathywalker/static/js/2.223deb8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "23b0ee6655392657fe8e",
+    "revision": "271f180c37290d0be148",
     "url": "/cathywalker/static/js/main.ada01fed.chunk.js"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cathywalker/static/media/spark-ar-mask.5acb5c58.jpg"
   },
   {
-    "revision": "82e8850275317cfe416f8c214303d57e",
-    "url": "/cathywalker/static/media/spark-ar-mask2.82e88502.jpg"
+    "revision": "4bebb0732649cedd43306710289dd2ed",
+    "url": "/cathywalker/static/media/spark-ar-mask2.4bebb073.jpg"
   },
   {
     "revision": "bf68b7c6b9f78101e2bf742e41aafcb0",
