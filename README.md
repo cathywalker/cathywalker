@@ -1,3 +1,3 @@
 A Portfolio website
 
-Made in React
+Made in React.
