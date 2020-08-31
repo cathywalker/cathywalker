@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cathywalker/static/css/main.0e2e628d.chunk.css",
+    "main.css": "/cathywalker/static/css/main.1a18998c.chunk.css",
     "main.js": "/cathywalker/static/js/main.cb7a1d2f.chunk.js",
     "main.js.map": "/cathywalker/static/js/main.cb7a1d2f.chunk.js.map",
     "runtime-main.js": "/cathywalker/static/js/runtime-main.7fc967e4.js",
@@ -8,9 +8,9 @@
     "static/js/2.907ef51f.chunk.js": "/cathywalker/static/js/2.907ef51f.chunk.js",
     "static/js/2.907ef51f.chunk.js.map": "/cathywalker/static/js/2.907ef51f.chunk.js.map",
     "index.html": "/cathywalker/index.html",
-    "precache-manifest.19f998db3476067b54799a9a01e0b648.js": "/cathywalker/precache-manifest.19f998db3476067b54799a9a01e0b648.js",
+    "precache-manifest.7477e5ea05b3ed3d608b999d859a94ce.js": "/cathywalker/precache-manifest.7477e5ea05b3ed3d608b999d859a94ce.js",
     "service-worker.js": "/cathywalker/service-worker.js",
-    "static/css/main.0e2e628d.chunk.css.map": "/cathywalker/static/css/main.0e2e628d.chunk.css.map",
+    "static/css/main.1a18998c.chunk.css.map": "/cathywalker/static/css/main.1a18998c.chunk.css.map",
     "static/js/2.907ef51f.chunk.js.LICENSE.txt": "/cathywalker/static/js/2.907ef51f.chunk.js.LICENSE.txt",
     "static/media/accidental-theatre.png": "/cathywalker/static/media/accidental-theatre.ab96d89e.png",
     "static/media/bbc-history.png": "/cathywalker/static/media/bbc-history.2b250fa4.png",
@@ -18,13 +18,13 @@
     "static/media/bbc-learning.png": "/cathywalker/static/media/bbc-learning.9dbbe59a.png",
     "static/media/myc_podcast_icon.png": "/cathywalker/static/media/myc_podcast_icon.c09170a6.png",
     "static/media/shieldmaiden-studios.png": "/cathywalker/static/media/shieldmaiden-studios.56528f6f.png",
-    "static/media/spark-ar-mask.jpg": "/cathywalker/static/media/spark-ar-mask.5acb5c58.jpg",
+    "static/media/HeroSection.css": "/cathywalker/static/media/spark-ar-mask.5acb5c58.jpg",
     "static/media/wii_podcast_deirdre_ep8.png": "/cathywalker/static/media/wii_podcast_deirdre_ep8.bf68b7c6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7fc967e4.js",
     "static/js/2.907ef51f.chunk.js",
-    "static/css/main.0e2e628d.chunk.css",
+    "static/css/main.1a18998c.chunk.css",
     "static/js/main.cb7a1d2f.chunk.js"
   ]
 }
